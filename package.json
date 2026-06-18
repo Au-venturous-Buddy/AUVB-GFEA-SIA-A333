@@ -1,10 +1,10 @@
 {
-  "name": "auvb-gfea-sin-b77W",
+  "name": "auvb-gfea-sin-a333",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/AUVB Logo.png",
-    "productName": "Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines B777-300ER",
+    "productName": "Au-venturous Buddy Gotta Fly 'Em All: Singapore Airlines A330-300",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,7 +46,7 @@
     }
   },
   "private": true,
-  "description": "Singapore Airlines B777-300ER",
+  "description": "Singapore Airlines A330-300",
   "version": "1",
   "license": "0BSD",
   "scripts": {
